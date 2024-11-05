@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>gstter1</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+                        111
+                        111
+                        111
+                        0
+                        111
+                        111
+					</indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+                        0
+                        0
+                        0
+                        0
+                        111
+                        111
+					</indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+                        43
+                        43
+                        43
+                        156
+                        99
+                        5
+					</indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+                        3
+                        3
+                        3
+                        156
+                        2
+                        5
+					</indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+                        62
+                        62
+                        62
+                        156
+                        4
+                        5
+					</indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+                        38
+                        38
+                        38
+                        156
+                        111
+                        111
+					</indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+                        52
+                        52
+                        52
+                        156
+                        111
+                        111
+					</indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+                        89
+                        89
+                        89
+                        0
+                        111
+                        111
+					</indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>4287_gstter1_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="666"/>
+      <sirenSettings value="0"/>
+    </Item>
+    <Item>
+      <modelName>gstter1b</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+                        12
+                        12
+                        12
+                        120
+                        160
+                        160
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+                        152
+                        152
+                        152
+                        120
+                        160
+                        160
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+                        132
+                        132
+                        132
+                        120
+                        160
+                        160
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+                        84
+                        84
+                        84
+                        120
+                        160
+                        160
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="0"/>
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

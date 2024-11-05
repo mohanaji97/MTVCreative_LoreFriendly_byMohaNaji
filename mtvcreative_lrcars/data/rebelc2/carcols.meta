@@ -1,0 +1,4311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CVehicleModelInfoVarGlobal>
+  <Kits>
+    <Item>
+      <kitName>911_rebelc2_modkit</kitName>
+      <id value="911"/>
+      <kitType>MKT_SPORT</kitType>
+      <visibleMods>
+	  <Item>
+          <modelName>NULL</modelName>
+          <modShopLabel>REBELC2_MIRRDELETE</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_q</Item>
+		  <Item>misc_r</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_mirr1_l</modelName>
+          <modShopLabel>REBELC2_MIRR1_L</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_mirr1_r</Item>
+		  </linkedModels>
+          <turnOffBones>
+          <Item>misc_q</Item>
+		  <Item>misc_r</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>wing_lf</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_mirr2_l</modelName>
+          <modShopLabel>REBELC2_MIRR2_L</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_mirr2_r</Item>
+		  </linkedModels>
+          <turnOffBones>
+          <Item>misc_q</Item>
+		  <Item>misc_r</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_mirr3_l</modelName>
+          <modShopLabel>REBELC2_MIRR3_L</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_mirr3_r</Item>
+		  </linkedModels>
+          <turnOffBones>
+          <Item>misc_q</Item>
+		  <Item>misc_r</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_mirr4_l</modelName>
+          <modShopLabel>REBELC2_MIRR4_L</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_mirr4_r</Item>
+		  </linkedModels>
+          <turnOffBones>
+          <Item>misc_q</Item>
+		  <Item>misc_r</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_mirr5_l</modelName>
+          <modShopLabel>REBELC2_MIRR5_L</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_mirr5_r</Item>
+		  </linkedModels>
+          <turnOffBones>
+          <Item>misc_q</Item>
+		  <Item>misc_r</Item>
+          </turnOffBones>
+          <type>VMT_WING_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_snorkle1</modelName>
+          <modShopLabel>REBELC2_SNORKLE1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_snorkle2</modelName>
+          <modShopLabel>REBELC2_SNORKLE2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_snorkle3</modelName>
+          <modShopLabel>REBELC2_SNORKLE3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_snorkle4</modelName>
+          <modShopLabel>REBELC2_SNORKLE4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_CHASSIS3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>NULL</modelName>
+          <modShopLabel>REBELC2_BOOTDELETE</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS5</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_boot_2</modelName>
+          <modShopLabel>YOS3_BOOT2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS5</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>rebelc2_boot_3</modelName>
+          <modShopLabel>YOS3_BOOT3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS5</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>rebelc2_boot_4</modelName>
+          <modShopLabel>YOS3_BOOT4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS5</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>rebelc2_boot_5</modelName>
+          <modShopLabel>YOS3_BOOT5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS5</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>rebelc2_boot_6</modelName>
+          <modShopLabel>YOS3_BOOT6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS5</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>rebelc2_boot_7</modelName>
+          <modShopLabel>YOS3_BOOT7</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>boot</Item>
+          </turnOffBones>
+          <type>VMT_CHASSIS5</type>
+          <bone>boot</bone>
+          <collisionBone>boot</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_dash0</modelName>
+          <modShopLabel>REBELC2_DASH0</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>misc_p</Item>
+		  </turnOffBones>  
+          <type>VMT_INTERIOR3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_dash1</modelName>
+          <modShopLabel>REBELC2_DASH1</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>misc_p</Item>
+		  </turnOffBones>  
+          <type>VMT_INTERIOR3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_dash2</modelName>
+          <modShopLabel>REBELC2_DASH2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>misc_p</Item>
+		  </turnOffBones>  
+          <type>VMT_INTERIOR3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_dash3</modelName>
+          <modShopLabel>REBELC2_DASH3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>misc_p</Item>
+		  </turnOffBones>  
+          <type>VMT_INTERIOR3</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_lightcover1</modelName>
+          <modShopLabel>REBELC2_LIGHTCOVER1</modShopLabel>
+          <linkedModels />
+          <turnOffBones> 
+		  <Item>misc_n</Item>
+		  <Item>misc_o</Item>
+		  <Item>headlight_l</Item>
+		  <Item>headlight_r</Item>
+		  <Item>indicator_lf</Item>
+		  <Item>indicator_rf</Item>
+		  </turnOffBones>  
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_lightcover2</modelName>
+          <modShopLabel>REBELC2_LIGHTCOVER2</modShopLabel>
+          <linkedModels />
+          <turnOffBones> 
+		  <Item>misc_n</Item>
+		  <Item>misc_o</Item>
+		  <Item>headlight_l</Item>
+		  <Item>headlight_r</Item>
+		  <Item>indicator_lf</Item>
+		  <Item>indicator_rf</Item>
+		  </turnOffBones>  
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_lightcover3</modelName>
+          <modShopLabel>REBELC2_LIGHTCOVER3</modShopLabel>
+          <linkedModels />
+          <turnOffBones /> 
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_lightcover4</modelName>
+          <modShopLabel>REBELC2_LIGHTCOVER4</modShopLabel>
+          <linkedModels />
+          <turnOffBones> 
+		  <Item>headlight_l</Item>
+		  <Item>misc_n</Item>
+		  </turnOffBones>  
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_lightcover5</modelName>
+          <modShopLabel>REBELC2_LIGHTCOVER5</modShopLabel>
+          <linkedModels />
+          <turnOffBones> 
+		  <Item>misc_n</Item>
+		  <Item>misc_o</Item>
+		  <Item>headlight_l</Item>
+		  <Item>headlight_r</Item>
+		  </turnOffBones>  
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_lightcover6</modelName>
+          <modShopLabel>REBELC2_LIGHTCOVER6</modShopLabel>
+          <linkedModels />
+          <turnOffBones> 
+		 <Item>misc_n</Item>
+		  <Item>misc_o</Item>
+		  </turnOffBones>  
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_lightcover7</modelName>
+          <modShopLabel>REBELC2_LIGHTCOVER7</modShopLabel>
+          <linkedModels />
+          <turnOffBones> 
+		 <Item>misc_n</Item>
+		  <Item>misc_o</Item>
+		  </turnOffBones>  
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_lightcover8</modelName>
+          <modShopLabel>REBELC2_LIGHTCOVER8</modShopLabel>
+          <linkedModels />
+          <turnOffBones> 
+		 <Item>misc_n</Item>
+		  <Item>misc_o</Item>
+		  </turnOffBones>  
+          <type>VMT_CHASSIS2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_livery0</modelName>
+          <modShopLabel>REBELC2_LIVERY0</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_livery0a</modelName>
+          <modShopLabel>REBELC2_LIVERY0A</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_livery1</modelName>
+          <modShopLabel>REBELC2_LIVERY1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_livery2</modelName>
+          <modShopLabel>REBELC2_LIVERY2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_livery3</modelName>
+          <modShopLabel>REBELC2_LIVERY3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_livery4</modelName>
+          <modShopLabel>REBELC2_LIVERY4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_livery5</modelName>
+          <modShopLabel>REBELC2_LIVERY5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_livery6</modelName>
+          <modShopLabel>REBELC2_LIVERY6</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_livery7</modelName>
+          <modShopLabel>REBELC2_LIVERY7</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_livery8</modelName>
+          <modShopLabel>REBELC2_LIVERY8</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_livery9</modelName>
+          <modShopLabel>REBELC2_LIVERY9</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_livery10</modelName>
+          <modShopLabel>REBELC2_LIVERY10</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_livery11</modelName>
+          <modShopLabel>REBELC2_LIVERY11</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_livery12</modelName>
+          <modShopLabel>REBELC2_LIVERY12</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_livery13</modelName>
+          <modShopLabel>REBELC2_LIVERY13</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_livery14</modelName>
+          <modShopLabel>REBELC2_LIVERY14</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_livery15</modelName>
+          <modShopLabel>REBELC2_LIVERY15</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_livery16</modelName>
+          <modShopLabel>REBELC2_LIVERY16</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>vehmod_camo1</modelName>
+          <modShopLabel>CAMO_LIV1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vehmod_camo2</modelName>
+          <modShopLabel>CAMO_LIV2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vehmod_camo3</modelName>
+          <modShopLabel>CAMO_LIV3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vehmod_camo4</modelName>
+          <modShopLabel>CAMO_LIV4</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vehmod_camo5</modelName>
+          <modShopLabel>CAMO_LIV5</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vehmod_camo6</modelName>
+          <modShopLabel>CAMO_LIV6</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vehmod_camo7</modelName>
+          <modShopLabel>CAMO_LIV7</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vehmod_camo8</modelName>
+          <modShopLabel>CAMO_LIV8</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vehmod_camo9</modelName>
+          <modShopLabel>CAMO_LIV9</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vehmod_camo10</modelName>
+          <modShopLabel>CAMO_LIV10</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vehmod_camo11</modelName>
+          <modShopLabel>CAMO_LIV11</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vehmod_camo12</modelName>
+          <modShopLabel>CAMO_LIV12</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vehmod_camo13</modelName>
+          <modShopLabel>CAMO_LIV13</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vehmod_camo14</modelName>
+          <modShopLabel>CAMO_LIV14</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vehmod_camo15</modelName>
+          <modShopLabel>CAMO_LIV15</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vehmod_camo16</modelName>
+          <modShopLabel>CAMO_LIV16</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>vehmod_camo17</modelName>
+          <modShopLabel>CAMO_LIV17</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_LIVERY_MOD</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_nitro1</modelName>
+          <modShopLabel>CMOD_BOS_1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_ENGINEBAY2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_nitro1</modelName>
+          <modShopLabel>CMOD_BOS_2</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_nitro2</item>
+		  </linkedModels>
+          <turnOffBones />
+          <type>VMT_ENGINEBAY2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_nitro1</modelName>
+          <modShopLabel>CMOD_BOS_3</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_nitro2</item>
+		  <item>rebelc2_nitro3</item>
+		  </linkedModels>
+          <turnOffBones />
+          <type>VMT_ENGINEBAY2</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_intercool1</modelName>
+          <modShopLabel>REBELC2_INTERCOOL1</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>misc_m</Item>
+		  </turnOffBones>  
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_intercool2</modelName>
+          <modShopLabel>REBELC2_INTERCOOL2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>misc_m</Item>
+		  </turnOffBones>  
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_intercool3</modelName>
+          <modShopLabel>REBELC2_INTERCOOL3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>misc_m</Item>
+		  </turnOffBones>  
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_intercool3a</modelName>
+          <modShopLabel>REBELC2_INTERCOOL3A</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>misc_m</Item>
+		  </turnOffBones>  
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_intercool4</modelName>
+          <modShopLabel>REBELC2_INTERCOOL4</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>misc_m</Item>
+		  </turnOffBones>  
+          <type>VMT_CHASSIS4</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>NULL</modelName>
+          <modShopLabel>REBELC2_NOGRILL</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>misc_b</Item>
+		  <Item>misc_c</Item>
+		  </turnOffBones>  
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_grill1</modelName>
+          <modShopLabel>REBELC2_GRILL1</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>misc_b</Item>
+		  </turnOffBones>  
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_grill2</modelName>
+          <modShopLabel>REBELC2_GRILL2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>misc_b</Item>
+		  </turnOffBones>  
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_grill3</modelName>
+          <modShopLabel>REBELC2_GRILL3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>misc_b</Item>
+		  </turnOffBones>  
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_grill4</modelName>
+          <modShopLabel>REBELC2_GRILL4</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>misc_b</Item>
+		  </turnOffBones>  
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_grill5</modelName>
+          <modShopLabel>REBELC2_GRILL5</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>misc_b</Item>
+		  <Item>misc_c</Item>
+		  </turnOffBones>  
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_grill6</modelName>
+          <modShopLabel>REBELC2_GRILL6</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>misc_b</Item>
+		  <Item>misc_c</Item>
+		  </turnOffBones>  
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_grill7</modelName>
+          <modShopLabel>REBELC2_GRILL7</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>misc_b</Item>
+		  <Item>misc_c</Item>
+		  </turnOffBones>  
+          <type>VMT_GRILL</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	   <Item>
+          <modelName>rebelc2_fnet_l</modelName>
+          <modShopLabel>REBELC2_FNET_L</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_fnet_r</Item> 
+		  <Item>rebelc2_rnet_l</Item>
+		  <Item>rebelc2_rnet_r</Item>
+		  </linkedModels>
+		  <turnOffBones /> 
+          <type>VMT_DOOR_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>NULL</modelName>
+          <modShopLabel>REBELC2_RTOOLS_L</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_rtools_l</Item> 
+		  <Item>rebelc2_rtools_r</Item>
+		  </linkedModels>
+		  <turnOffBones /> 
+          <type>VMT_DOOR_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_fnet_l</modelName>
+          <modShopLabel>REBELC2_MIXEDMOD</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_fnet_r</Item> 
+		  <Item>rebelc2_rnet_l</Item>
+		  <Item>rebelc2_rnet_r</Item>
+		  <Item>rebelc2_rtools_l</Item> 
+		  <Item>rebelc2_rtools_r</Item>
+		  </linkedModels>
+		  <turnOffBones /> 
+          <type>VMT_DOOR_L</type>
+          <bone>door_dside_f</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bpillarlnk</modelName>
+          <modShopLabel>REBELC2_DOORS1</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_fdoor1_l</Item> 
+		  <Item>rebelc2_fdoor1_r</Item>
+		  <Item>rebelc2_rdoor1_l</Item>
+		  <Item>rebelc2_rdoor1_r</Item>
+		  </linkedModels>
+		 <turnOffBones> 
+		  <Item>door_dside_f</Item>
+		  <Item>door_pside_f</Item>
+		  <Item>door_dside_r</Item>
+		  <Item>door_pside_r</Item> 
+		  </turnOffBones>  
+          <type>VMT_DOOR_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bpillarlnk</modelName>
+          <modShopLabel>REBELC2_DOORS2</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_fdoor2_l</Item> 
+		  <Item>rebelc2_fdoor2_r</Item>
+		  <Item>rebelc2_rdoor2_l</Item>
+		  <Item>rebelc2_rdoor2_r</Item>
+		  </linkedModels>
+		 <turnOffBones> 
+		  <Item>door_dside_f</Item>
+		  <Item>door_pside_f</Item>
+		  <Item>door_dside_r</Item>
+		  <Item>door_pside_r</Item> 
+		  </turnOffBones>  
+          <type>VMT_DOOR_L</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_intcage1a</modelName>
+          <modShopLabel>REBELC2_INTCAGE1A</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_intcage1b</modelName>
+          <modShopLabel>REBELC2_INTCAGE1B</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_intcage2a</modelName>
+          <modShopLabel>REBELC2_INTCAGE2A</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_intcage2b</modelName>
+          <modShopLabel>REBELC2_INTCAGE2B</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_CHASSIS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_ornam1</modelName>
+          <modShopLabel>REBELC2_ORNAM1</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_INTERIOR2</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		 <Item>
+          <modelName>rebelc2_ornam2</modelName>
+          <modShopLabel>REBELC2_ORNAM2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_INTERIOR2</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		 <Item>
+          <modelName>rebelc2_ornam3</modelName>
+          <modShopLabel>REBELC2_ORNAM3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_INTERIOR2</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		 <Item>
+          <modelName>rebelc2_ornam4</modelName>
+          <modShopLabel>REBELC2_ORNAM4</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_INTERIOR2</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		 <Item>
+          <modelName>rebelc2_ornam5</modelName>
+          <modShopLabel>REBELC2_ORNAM5</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_INTERIOR2</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		 <Item>
+          <modelName>rebelc2_ornam6</modelName>
+          <modShopLabel>REBELC2_ORNAM6</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_INTERIOR2</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		 <Item>
+          <modelName>rebelc2_ornam7</modelName>
+          <modShopLabel>REBELC2_ORNAM7</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_INTERIOR2</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		 <Item>
+          <modelName>rebelc2_ornam8</modelName>
+          <modShopLabel>REBELC2_ORNAM8</modShopLabel>
+          <linkedModels />
+		  <turnOffBones /> 
+          <type>VMT_INTERIOR2</type>
+          <bone>bonnet</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_hood0</modelName>
+          <modShopLabel>KAMACHO_HOOD8</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>bonnet</Item> 
+		  </turnOffBones>  
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_hood1</modelName>
+          <modShopLabel>DVANT_HD6</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>bonnet</Item> 
+		  </turnOffBones>  
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_hood2</modelName>
+          <modShopLabel>VIG2_HOOD_16</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_scharger</Item> 
+		  </linkedModels>
+		  <turnOffBones> 
+		  <Item>bonnet</Item> 
+		  <Item>misc_e</Item> 
+		  </turnOffBones>  
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_hood3</modelName>
+          <modShopLabel>DVANT_HD4</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_scharger2</Item> 
+		  </linkedModels>
+		  <turnOffBones> 
+		  <Item>bonnet</Item> 
+		  <Item>misc_e</Item> 
+		  </turnOffBones>  
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>bonnet</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_hood4</modelName>
+          <modShopLabel>GAUNT5_HOOD_K</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_blower_a</Item> 
+		  </linkedModels>
+		  <turnOffBones> 
+		  <Item>bonnet</Item> 
+		  <Item>misc_e</Item> 
+		  </turnOffBones>  
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_16</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_hood4</modelName>
+          <modShopLabel>GAUNT5_HOOD_L</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_blower_b</Item> 
+		  </linkedModels>
+		  <turnOffBones> 
+		  <Item>bonnet</Item> 
+		  <Item>misc_e</Item> 
+		  </turnOffBones>  
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_16</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_hood4</modelName>
+          <modShopLabel>GAUNT_HOOD_M</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_blower_c</Item> 
+		  </linkedModels>
+		  <turnOffBones> 
+		  <Item>bonnet</Item> 
+		  <Item>misc_e</Item> 
+		  </turnOffBones>  
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_16</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_hood4</modelName>
+          <modShopLabel>GAUNT5_HOOD_N</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_blower_d</Item>
+		  <Item>rebelc2_butterfly</Item>  
+		  </linkedModels>
+		  <turnOffBones> 
+		  <Item>bonnet</Item> 
+		  <Item>misc_e</Item> 
+		  </turnOffBones>  
+          <type>VMT_BONNET</type>
+          <bone>bonnet</bone>
+          <collisionBone>mod_col_16</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>NULL</modelName>
+          <modShopLabel>GAUNT5_HOOD_K</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_blower_a</Item> 
+		  </linkedModels>
+		  <turnOffBones> 
+		  <Item>bonnet</Item> 
+		  <Item>misc_e</Item> 
+		  </turnOffBones>  
+          <type>VMT_BONNET</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_16</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>NULL</modelName>
+          <modShopLabel>GAUNT5_HOOD_L</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_blower_b</Item> 
+		  </linkedModels>
+		  <turnOffBones> 
+		  <Item>bonnet</Item> 
+		  <Item>misc_e</Item> 
+		  </turnOffBones>  
+          <type>VMT_BONNET</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_16</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>NULL</modelName>
+          <modShopLabel>GAUNT_HOOD_M</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_blower_c</Item> 
+		  </linkedModels>
+		  <turnOffBones> 
+		  <Item>bonnet</Item> 
+		  <Item>misc_e</Item> 
+		  </turnOffBones>  
+          <type>VMT_BONNET</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_16</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>NULL</modelName>
+          <modShopLabel>GAUNT5_HOOD_N</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_blower_d</Item>
+		  <Item>rebelc2_butterfly</Item>  
+		  </linkedModels>
+		  <turnOffBones> 
+		  <Item>bonnet</Item> 
+		  <Item>misc_e</Item> 
+		  </turnOffBones>  
+          <type>VMT_BONNET</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_16</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_stwheel2</modelName>
+          <modShopLabel>SMOD2_STEER2</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>steeringwheel</Item> 
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>steeringwheel</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_stwheel3</modelName>
+          <modShopLabel>SMOD2_STEER3</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>steeringwheel</Item> 
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>steeringwheel</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_stwheel4</modelName>
+          <modShopLabel>SMOD2_STEER4</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>steeringwheel</Item> 
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>steeringwheel</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_stwheel6</modelName>
+          <modShopLabel>SMOD2_STEER6</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>steeringwheel</Item> 
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>steeringwheel</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_stwheel7</modelName>
+          <modShopLabel>SMOD2_STEER7</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>steeringwheel</Item> 
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>steeringwheel</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_stwheel12</modelName>
+          <modShopLabel>SMOD2_STEER12</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>steeringwheel</Item> 
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>steeringwheel</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_stwheel13</modelName>
+          <modShopLabel>SMOD2_STEER13</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>steeringwheel</Item> 
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>steeringwheel</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_stwheel16</modelName>
+          <modShopLabel>SMOD2_STEER16</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>steeringwheel</Item> 
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>steeringwheel</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_wheel_a</modelName>
+          <modShopLabel>SMOD_STEER1</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>steeringwheel</Item> 
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>steeringwheel</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_wheel_g</modelName>
+          <modShopLabel>SMOD_STEER7</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>steeringwheel</Item> 
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>steeringwheel</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_wheel_l</modelName>
+          <modShopLabel>SMOD_STEER12</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>steeringwheel</Item> 
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>steeringwheel</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_wheel_m</modelName>
+          <modShopLabel>SMOD_STEER13</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>steeringwheel</Item> 
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>steeringwheel</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_wheel_q</modelName>
+          <modShopLabel>WEEVIL_STEERQ</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>steeringwheel</Item> 
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>steeringwheel</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_wheel_r</modelName>
+          <modShopLabel>WEEVIL_STEERR</modShopLabel>
+          <linkedModels />
+		  <turnOffBones> 
+		  <Item>steeringwheel</Item> 
+		  </turnOffBones>  
+          <type>VMT_STEERING</type>
+          <bone>steeringwheel</bone>
+          <collisionBone>steeringwheel</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_bench_1</modelName>
+          <modShopLabel>YOS3_SEAT1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>rebelc2_bench_2</modelName>
+          <modShopLabel>YOS3_SEAT2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>rebelc2_bench_3</modelName>
+          <modShopLabel>YOS3_SEAT3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>rebelc2_bench_4</modelName>
+          <modShopLabel>YOS3_SEAT4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>rebelc2_bench_5</modelName>
+          <modShopLabel>YOS3_SEAT5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+       <Item>
+          <modelName>rebelc2_bench_6</modelName>
+          <modShopLabel>YOS3_SEAT6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_d</Item>
+          </turnOffBones>
+          <type>VMT_INTERIOR1</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_bucketa1</modelName>
+          <modShopLabel>SMOD_BSEAT2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>misc_h</item>
+		  </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bucketb1</modelName>
+          <modShopLabel>SMOD_BSEAT5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>misc_h</item>
+		  </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bucketc1</modelName>
+          <modShopLabel>SMOD_BSEAT8</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>misc_h</item>
+		  </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bucketd1</modelName>
+          <modShopLabel>SMOD_BSEAT11</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>misc_h</item>
+		  </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bucketseat</modelName>
+          <modShopLabel>REBELC2_BUCKETSEAT</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>misc_h</item>
+		  </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_seatc</modelName>
+          <modShopLabel>WEEVIL2_SEATC</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>misc_h</item>
+		  </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_seatd</modelName>
+          <modShopLabel>WEEVIL2_SEATD</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>misc_h</item>
+		  </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_seate</modelName>
+          <modShopLabel>WEEVIL2_SEATE</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>misc_h</item>
+		  </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_seatf</modelName>
+          <modShopLabel>WEEVIL2_SEATF</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>misc_h</item>
+		  </turnOffBones>
+          <type>VMT_SEATS</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_exh_0</modelName>
+          <modShopLabel>REBELC2_EXH_0</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>misc_i</item>
+		  </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_exh_1</modelName>
+          <modShopLabel>YOS3_EXH1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_i</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>rebelc2_exh_2</modelName>
+          <modShopLabel>YOS3_EXH2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+            <Item>misc_i</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>rebelc2_exh_3</modelName>
+          <modShopLabel>YOS3_EXH3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+           <Item>misc_i</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>rebelc2_exh_4</modelName>
+          <modShopLabel>YOS3_EXH4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+           <Item>misc_i</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>rebelc2_exh_5</modelName>
+          <modShopLabel>YOS3_EXH5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_i</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_exh_6</modelName>
+          <modShopLabel>YOS3_EXH3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_i</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_exh_7</modelName>
+          <modShopLabel>RATEL_EXHE</modShopLabel>
+          <linkedModels>
+		  <Item>rebelc2_exhcap</Item>
+		  </linkedModels>
+          <turnOffBones>
+          <Item>misc_i</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_exh_a</modelName>
+          <modShopLabel>REBELC2_EXH_A</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_i</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+			<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_exh_b</modelName>
+          <modShopLabel>REBELC2_EXH_B</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_i</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+			<Item>bonnet</Item>
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_turbo1</modelName>
+          <modShopLabel>HELL_ENGINE_E</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+          <Item>misc_i</Item>
+			<Item>exhaust</Item>
+			<Item>exhaust_2</Item>
+			<Item>bonnet</Item>
+			<Item>rebelc2_hood0</Item>
+			<Item>rebelc2_hood1</Item>
+			<Item>rebelc2_hood2</Item>
+			<Item>rebelc2_hood3</Item>
+			<Item>rebelc2_hood4</Item>    
+          </turnOffBones>
+          <type>VMT_EXHAUST</type>
+          <bone>engineblock</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="0" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>NULL</modelName>
+          <modShopLabel>REBELC2_STEPDEL</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>misc_j</item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	   <Item>
+          <modelName>rebelc2_step0</modelName>
+          <modShopLabel>REBELC2_STEP0</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>misc_j</item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_step_1</modelName>
+          <modShopLabel>YOS3_STEP1</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>misc_j</item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>rebelc2_step_2</modelName>
+          <modShopLabel>YOS3_STEP2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>misc_j</item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>rebelc2_step_3</modelName>
+          <modShopLabel>YOS3_STEP3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>misc_j</item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>rebelc2_step_4</modelName>
+          <modShopLabel>YOS3_STEP4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>misc_j</item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>rebelc2_step_5</modelName>
+          <modShopLabel>YOS3_STEP5</modShopLabel>
+          <linkedModels />
+         <turnOffBones>
+		  <item>misc_j</item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+        <Item>
+          <modelName>rebelc2_step_6</modelName>
+          <modShopLabel>YOS3_STEP6</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>misc_j</item>
+		  </turnOffBones>
+          <type>VMT_SKIRT</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_bumr1</modelName>
+          <modShopLabel>REBELC2_BUMR1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bumr1a</modelName>
+          <modShopLabel>REBELC2_BUMR1A</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bumr2</modelName>
+          <modShopLabel>REBELC2_BUMR2</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bumr2a</modelName>
+          <modShopLabel>REBELC2_BUMR2A</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bumr3</modelName>
+          <modShopLabel>REBELC2_BUMR3</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bumr3a</modelName>
+          <modShopLabel>REBELC2_BUMR3A</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_R</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>NULL</modelName>
+          <modShopLabel>REBELC2_STOCKBUMF</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_bumflink</item>
+		  </linkedModels>
+         <turnOffBones>
+		  <item>bumper_f</item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_bullb0</modelName>
+          <modShopLabel>REBELC2_BULLB0</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bumper_f</item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bullb1</modelName>
+          <modShopLabel>REBELC2_BULLB1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bullb1a</modelName>
+          <modShopLabel>REBELC2_BULLB1A</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_bumflink</item>
+		  </linkedModels>
+         <turnOffBones>
+		  <item>bumper_f</item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bullb2</modelName>
+          <modShopLabel>REBELC2_BULLB2</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bumper_f</item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bullb2a</modelName>
+          <modShopLabel>REBELC2_BULLB2A</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bumper_f</item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>bumper_f</bone>
+          <collisionBone>bumper_f</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bullb3</modelName>
+          <modShopLabel>REBELC2_BULLB3</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bumper_f</item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_7</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bullb4</modelName>
+          <modShopLabel>REBELC2_BULLB4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bumper_f</item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_7</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bullb5</modelName>
+          <modShopLabel>REBELC2_BULLB5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bumper_f</item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_7</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bullb6</modelName>
+          <modShopLabel>REBELC2_BULLB6</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_bumflink</item>
+		  </linkedModels>
+          <turnOffBones>
+		  <item>bumper_f</item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_7</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bullb7</modelName>
+          <modShopLabel>REBELC2_BULLB7</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bumper_f</item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_7</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bullb8</modelName>
+          <modShopLabel>REBELC2_BULLB8</modShopLabel>
+         <linkedModels>
+		  <item>rebelc2_bumflink</item>
+		  </linkedModels>
+          <turnOffBones>
+		  <item>bumper_f</item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_7</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bullb9</modelName>
+          <modShopLabel>REBELC2_BULLB9</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		  <item>bumper_f</item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_7</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bullb10</modelName>
+          <modShopLabel>BRUT_RAM_B</modShopLabel>
+         <linkedModels>
+		  <item>rebelc2_bumflink</item>
+		  </linkedModels>
+          <turnOffBones>
+		  <item>bumper_f</item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_7</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bullb11</modelName>
+          <modShopLabel>BRUT_RAM_C</modShopLabel>
+         <linkedModels>
+		  <item>rebelc2_bumflink</item>
+		  </linkedModels>
+          <turnOffBones>
+		  <item>bumper_f</item>
+		  </turnOffBones>
+          <type>VMT_BUMPER_F</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_7</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_widebed</modelName>
+          <modShopLabel>REBELC2_WIDEBED</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_wing_l</item>
+		  <item>rebelc2_wing_r</item>
+		  </linkedModels>
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>chassis</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+	  <Item>
+          <modelName>rebelc2_bed1</modelName>
+          <modShopLabel>REBELC2_BED1</modShopLabel>
+          <linkedModels />
+          <turnOffBones />
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bed2</modelName>
+          <modShopLabel>REBELC2_BED2</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_wing_l</item>
+		  <item>rebelc2_wing_r</item>
+		  </linkedModels>
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_5</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bed11</modelName>
+          <modShopLabel>REBELC2_BED11</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_wing_l</item>
+		  <item>rebelc2_wing_r</item>
+		  </linkedModels>
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_13</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bed3</modelName>
+          <modShopLabel>REBELC2_BED3</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_wing_l</item>
+		  <item>rebelc2_wing_r</item>
+		  </linkedModels>
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_6</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bed4</modelName>
+          <modShopLabel>REBELC2_BED4</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_wing_l</item>
+		  <item>rebelc2_wing_r</item>
+		  </linkedModels>
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_7</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bed5</modelName>
+          <modShopLabel>REBELC2_BED5</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_wing_l</item>
+		  <item>rebelc2_wing_r</item>
+		  </linkedModels>
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_8</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bed6</modelName>
+          <modShopLabel>REBELC2_BED6</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_wing_l</item>
+		  <item>rebelc2_wing_r</item>
+		  </linkedModels>
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_9</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bed7</modelName>
+          <modShopLabel>REBELC2_BED7</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_wing_l</item>
+		  <item>rebelc2_wing_r</item>
+		  </linkedModels>
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_10</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bed8</modelName>
+          <modShopLabel>REBELC2_BED8</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_wing_l</item>
+		  <item>rebelc2_wing_r</item>
+		  </linkedModels>
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_11</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bed12</modelName>
+          <modShopLabel>REBELC2_BED12</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_wing_l</item>
+		  <item>rebelc2_wing_r</item>
+		  </linkedModels>
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_14</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_body_2</modelName>
+          <modShopLabel>REBELC2_BODY_2</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_wing_l</item>
+		  <item>rebelc2_wing_r</item>
+		  </linkedModels>
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>boot</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_body_2a</modelName>
+          <modShopLabel>REBELC2_BODY_2A</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_wing_l</item>
+		  <item>rebelc2_wing_r</item>
+		  </linkedModels>
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>boot</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_1</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_body_3</modelName>
+          <modShopLabel>REBELC2_BODY_3</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_wing_l</item>
+		  <item>rebelc2_wing_r</item>
+		  </linkedModels>
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>boot</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_body_3a</modelName>
+          <modShopLabel>REBELC2_BODY_3A</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_wing_l</item>
+		  <item>rebelc2_wing_r</item>
+		  </linkedModels>
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>boot</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_2</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bed9</modelName>
+          <modShopLabel>REBELC2_BED9</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_wing_l</item>
+		  <item>rebelc2_wing_r</item>
+		  </linkedModels>
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_12</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bed10</modelName>
+          <modShopLabel>REBELC2_BED10</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_wing_l</item>
+		  <item>rebelc2_wing_r</item>
+		  </linkedModels>
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_12</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_bed13</modelName>
+          <modShopLabel>REBELC2_BED13</modShopLabel>
+          <linkedModels>
+		  <item>rebelc2_wing_l</item>
+		  <item>rebelc2_wing_r</item>
+		  </linkedModels>
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		   <item>boot</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_15</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_body_4</modelName>
+          <modShopLabel>REBELC2_BODY_4</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>boot</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		    <item>taillight_l</item>
+			 <item>taillight_r</item>
+			  <item>indicator_lr</item>
+			   <item>indicator_rr</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_body_4a</modelName>
+          <modShopLabel>REBELC2_BODY_4A</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>boot</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		    <item>taillight_l</item>
+			 <item>taillight_r</item>
+			  <item>indicator_lr</item>
+			   <item>indicator_rr</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_3</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_body_5</modelName>
+          <modShopLabel>REBELC2_BODY_5</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>boot</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		    <item>taillight_l</item>
+			 <item>taillight_r</item>
+			  <item>indicator_lr</item>
+			   <item>indicator_rr</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_body_5a</modelName>
+          <modShopLabel>REBELC2_BODY_5A</modShopLabel>
+          <linkedModels />
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>boot</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		    <item>taillight_l</item>
+			 <item>taillight_r</item>
+			  <item>indicator_lr</item>
+			   <item>indicator_rr</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_body_5b</modelName>
+          <modShopLabel>REBELC2_BODY_5B</modShopLabel>
+          <linkedModels>
+		   <item>rebelc2_antlink</item>
+		   </linkedModels>
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>boot</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		    <item>taillight_l</item>
+			 <item>taillight_r</item>
+			  <item>indicator_lr</item>
+			   <item>indicator_rr</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+		<Item>
+          <modelName>rebelc2_body_5b</modelName>
+          <modShopLabel>REBELC2_BODY_5C</modShopLabel>
+          <linkedModels>
+		   <item>rebelc2_antlink2</item>
+		   </linkedModels>
+          <turnOffBones>
+		   <item>misc_a</item>
+		   <item>boot</item>
+		   <item>wing_lf</item>
+		   <item>wing_rf</item>
+		    <item>taillight_l</item>
+			 <item>taillight_r</item>
+			  <item>indicator_lr</item>
+			   <item>indicator_rr</item>
+		   </turnOffBones>
+          <type>VMT_SPOILER</type>
+          <bone>chassis</bone>
+          <collisionBone>mod_col_4</collisionBone>
+          <cameraPos>VMCP_DEFAULT</cameraPos>
+          <audioApply value="1.000000" />
+          <weight value="20" />
+          <turnOffExtra value="false" />
+          <disableBonnetCamera value="false" />
+          <allowBonnetSlide value="true" />
+        </Item>
+      </visibleMods>
+	  <linkMods>
+		<Item>
+          <modelName>rebelc2_wing_l</modelName>
+          <bone>wing_lf</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_wing_r</modelName>
+          <bone>wing_rf</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_antlink</modelName>
+          <bone>misc_k</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_antlink2</modelName>
+          <bone>misc_k</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_bumflink</modelName>
+          <bone>bumper_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_exhcap</modelName>
+          <bone>supercharger_2</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_scharger</modelName>
+          <bone>engineblock</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_scharger2</modelName>
+          <bone>engineblock</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_blower_a</modelName>
+          <bone>engineblock</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_blower_b</modelName>
+          <bone>engineblock</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_blower_c</modelName>
+          <bone>engineblock</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_blower_d</modelName>
+          <bone>engineblock</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_butterfly</modelName>
+          <bone>misc_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_fnet_r</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_rnet_l</modelName>
+          <bone>door_dside_r</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_rnet_r</modelName>
+          <bone>door_pside_r</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_rtools_l</modelName>
+          <bone>door_dside_r</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_rtools_r</modelName>
+          <bone>door_pside_r</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_fdoor1_l</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_fdoor1_r</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_rdoor1_l</modelName>
+          <bone>door_dside_r</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_rdoor1_r</modelName>
+          <bone>door_pside_r</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_fdoor2_l</modelName>
+          <bone>door_dside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_fdoor2_r</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_rdoor2_l</modelName>
+          <bone>door_dside_r</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_rdoor2_r</modelName>
+          <bone>door_pside_r</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_nitro2</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_nitro3</modelName>
+          <bone>chassis</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_mirr1_r</modelName>
+          <bone>wing_rf</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_mirr2_r</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_mirr3_r</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_mirr4_r</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+		<Item>
+          <modelName>rebelc2_mirr5_r</modelName>
+          <bone>door_pside_f</bone>
+          <turnOffExtra value="false" />
+		</Item>
+	  </linkMods>
+      <statMods>
+        <Item>
+          <identifier/>
+          <modifier value="25"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="50"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="75"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ENGINE</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="25"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="50"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_BRAKES</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="25"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="50"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="5"/>
+          <type>VMT_GEARBOX</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="20"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="40"/>
+          <audioApply value="1.00000000"/>
+          <weight value="10"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="60"/>
+          <audioApply value="1.00000000"/>
+          <weight value="20"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="80"/>
+          <audioApply value="1.00000000"/>
+          <weight value="30"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="40"/>
+          <type>VMT_ARMOUR</type>
+        </Item>
+        <Item>
+          <identifier>HORN_TRUCK</identifier>
+          <modifier value="1766676233"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_COP</identifier>
+          <modifier value="2904189469"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_CLOWN</identifier>
+          <modifier value="2543206147"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_1</identifier>
+          <modifier value="1732399718"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_2</identifier>
+          <modifier value="2046162893"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_3</identifier>
+          <modifier value="2194999691"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_4</identifier>
+          <modifier value="2508304100"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_MUSICAL_5</identifier>
+          <modifier value="3707223535"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HORN_SAD_TROMBONE</identifier>
+          <modifier value="632950117"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="5"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="10"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="15"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier/>
+          <modifier value="20"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_SUSPENSION</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_1</identifier>
+          <modifier value="3628534289"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_2</identifier>
+          <modifier value="3892554122"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_3</identifier>
+          <modifier value="4112892878"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_4</identifier>
+          <modifier value="116877169"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_5</identifier>
+          <modifier value="2684983719"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_6</identifier>
+          <modifier value="2982690084"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>MUSICAL_HORN_BUSINESS_7</identifier>
+          <modifier value="3203290992"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C0</identifier>
+          <modifier value="771284519"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_D0</identifier>
+          <modifier value="2586621229"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_E0</identifier>
+          <modifier value="283386134"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_F0</identifier>
+          <modifier value="3884502400"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_G0</identifier>
+          <modifier value="265723083"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_A0</identifier>
+          <modifier value="1746883687"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_B0</identifier>
+          <modifier value="1919870950"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_BUSI2_C_MAJOR_NOTES_C1</identifier>
+          <modifier value="1085277077"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_1</identifier>
+          <modifier value="444549672"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_2</identifier>
+          <modifier value="1603064898"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_3</identifier>
+          <modifier value="240366033"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>HIPSTER_HORN_4</identifier>
+          <modifier value="960137118"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_1</identifier>
+          <modifier value="3572144790"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_2</identifier>
+          <modifier value="3801396714"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_3</identifier>
+          <modifier value="2843657151"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>INDEP_HORN_4</identifier>
+          <modifier value="3341811489"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_1</identifier>
+          <modifier value="3199657341"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_2</identifier>
+          <modifier value="2900378064"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXE_HORN_3</identifier>
+          <modifier value="3956195248"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXORY_HORN_1</identifier>
+          <modifier value="676333254"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXURY_HORN_2</identifier>
+          <modifier value="2099578296"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LUXURY_HORN_3</identifier>
+          <modifier value="1373384483"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_01</identifier>
+          <modifier value="2916775806"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_01_PREVIEW</identifier>
+          <modifier value="3714706952"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_02</identifier>
+          <modifier value="2611860261"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>ORGAN_HORN_LOOP_02_PREVIEW</identifier>
+          <modifier value="3206770359"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_1</identifier>
+          <modifier value="310529291"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_1_PREVIEW</identifier>
+          <modifier value="2965568987"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_2</identifier>
+          <modifier value="55291550"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>LOWRIDER_HORN_2_PREVIEW</identifier>
+          <modifier value="965054819"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_01</identifier>
+          <modifier value="55862314"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_01_PREVIEW</identifier>
+          <modifier value="2156743178"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_02</identifier>
+          <modifier value="400002352"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_02_PREVIEW</identifier>
+          <modifier value="897484282"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_03</identifier>
+          <modifier value="560832604"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>XM15_HORN_03_PREVIEW</identifier>
+          <modifier value="314232747"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_01</identifier>
+          <modifier value="3851180092"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_01_Preview</identifier>
+          <modifier value="246182814"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_02</identifier>
+          <modifier value="3412861948"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_02_Preview</identifier>
+          <modifier value="1804608241"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_03</identifier>
+          <modifier value="3374260066"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+        <Item>
+          <identifier>DLC_AW_Airhorn_03_Preview</identifier>
+          <modifier value="2798044638"/>
+          <audioApply value="1.00000000"/>
+          <weight value="0"/>
+          <type>VMT_HORN</type>
+        </Item>
+      </statMods>
+      <slotNames>
+        <Item>
+          <slot>NULL</slot>
+          <name>NULL</name>
+        </Item>
+      </slotNames>
+      <liveryNames/>
+      <livery2Names/>
+    </Item>
+  </Kits>
+</CVehicleModelInfoVarGlobal>
