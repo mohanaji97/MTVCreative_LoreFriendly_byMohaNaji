@@ -1,28 +1,31 @@
 # MTVCreative_LoreFriendly_byMohaNaji
 
-<h1>Hello! I'm Mauro Vera <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Frontend Developer 🎨 and Content Creator 📽</h2>
+<h1>MTVCode, presenta su pack gratuito de vehiculos LR Fivem ready.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+<h2>Pack unico y actualizado todos los meses, optimizacion garantizada disfurta de la nueva Beta!📽</h2>
 
-### About Me
+### Info pack
+
 Pack de Vehículos Lore Friendly + DLC Buttom Dollars (Incluye Sonidos y Vehículos de Carreras)
  
-  ¡Bienvenidos al nuevo pack de vehículos Lore Friendly para FiveM! 🚗💨  Este pack está diseñado para enriquecer la experiencia de tu servidor, ofreciendo una amplia gama de vehículos realistas y auténticos, perfectos para sumergirte en un mundo donde cada auto tiene su propia historia y estilo. 
+¡Bienvenidos al nuevo pack de vehículos Lore Friendly para FiveM! 🚗💨 
+ 
+Este pack está diseñado para enriquecer la experiencia de tu servidor, ofreciendo una amplia gama de vehículos realistas y auténticos, perfectos para sumergirte en un mundo donde cada auto tiene su propia historia y estilo. 
   
-   ¿Qué incluye el pack? Vehículos Lore Friendly: Modelos inspirados en la estética y narrativa del universo de GTA, perfectos para aquellos que buscan mantener la coherencia dentro del lore.
+¿Qué incluye el pack? Vehículos Lore Friendly: Modelos inspirados en la estética y narrativa del universo de GTA, perfectos para aquellos que buscan mantener la coherencia dentro del lore.
    
-    DLC Buttom Dollars: Vehículos exclusivos que aún no están disponibles en la GAEBuild de FiveM, pero que se han integrado aquí para ofrecerte acceso anticipado. 
+DLC Buttom Dollars: Vehículos exclusivos que aún no están disponibles en la GAEBuild de FiveM, pero que se han integrado aquí para ofrecerte acceso anticipado. 
     
-    Sonidos personalizables: Disfruta de sonidos únicos y de alta calidad para una experiencia inmersiva, incluyendo sonidos personalizados para motores, frenos y colisiones. Vehículos de Carreras: Automóviles de alto rendimiento ideales para tus eventos de carreras, diseñados para ofrecer un manejo de calidad y características mejoradas.
-    
-     Texturas HD y Modelos Detallados: Todos los vehículos vienen con texturas en alta resolución y modelos bien cuidados para asegurar un aspecto impresionante en tu servidor. 
+Sonidos personalizables: Disfruta de sonidos únicos y de alta calidad para una experiencia inmersiva, incluyendo sonidos personalizados para motores, frenos y colisiones. Vehículos de Carreras: Automóviles de alto rendimiento ideales para tus eventos de carreras, diseñados para ofrecer un manejo de calidad y características mejoradas.
+
+Texturas HD y Modelos Detallados: Todos los vehículos vienen con texturas en alta resolución y modelos bien cuidados para asegurar un aspecto impresionante en tu servidor. 
      
-     Este pack está pensado para quienes buscan una experiencia más completa y dinámica en sus servidores de FiveM, con vehículos que van más allá de lo común.
+Este pack está pensado para quienes buscan una experiencia más completa y dinámica en sus servidores de FiveM, con vehículos que van más allá de lo común.
      
-      Si eres un amante de la personalización, el detalle y la calidad, ¡este pack es para ti!  
+Si eres un amante de la personalización, el detalle y la calidad, ¡este pack es para ti!  
       
-      ¡No olvides suscribirte y activar la campanita para más contenido como este! 
+¡No olvides suscribirte y activar la campanita para más contenido como este! 
       
-       👉 Descarga disponible en el link de la descripción.  ¡Haz que tu servidor se destaque con estos vehículos de otro nivel!
+👉 Descarga disponible en el link de la descripción.  ¡Haz que tu servidor se destaque con estos vehículos de otro nivel!
 
 
 
