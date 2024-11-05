@@ -1,38 +1,40 @@
 # MTVCreative_LoreFriendly_byMohaNaji
 
-<h1>MTVCode, presenta su pack gratuito de vehiculos LR Fivem ready.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Pack unico y actualizado todos los meses, optimizacion garantizada disfurta de la nueva Beta!📽</h2>
+<h1>MTVCode presents its free LR FiveM-ready vehicle pack.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+<h2>Unique pack updated every month, guaranteed optimization. Enjoy the new Beta! 📽</h2>
 
-### Info pack
+### Pack Info
 
-Pack de Vehículos Lore Friendly + DLC Buttom Dollars (Incluye Sonidos y Vehículos de Carreras)
+Lore Friendly Vehicle Pack + Buttom Dollars DLC (Includes Sounds and Racing Vehicles)
  
-¡Bienvenidos al nuevo pack de vehículos Lore Friendly para FiveM! 🚗💨 
- 
-Este pack está diseñado para enriquecer la experiencia de tu servidor, ofreciendo una amplia gama de vehículos realistas y auténticos, perfectos para sumergirte en un mundo donde cada auto tiene su propia historia y estilo. 
-  
-¿Qué incluye el pack? Vehículos Lore Friendly: Modelos inspirados en la estética y narrativa del universo de GTA, perfectos para aquellos que buscan mantener la coherencia dentro del lore.
+Welcome to the new Lore Friendly vehicle pack for FiveM! 🚗💨 
    
-DLC Buttom Dollars =  Vehículos exclusivos que aún no están disponibles en la GAEBuild de FiveM
-pero que se han integrado aquí para ofrecerte acceso anticipado. 
-    
-Sonidos personalizables: Disfruta de sonidos únicos y de alta calidad para una experiencia inmersiva
-incluyendo sonidos personalizados para motores, frenos y colisiones. Vehículos de Carreras: Automóviles 
-de alto rendimiento ideales para tus eventos de carreras, diseñados para ofrecer un manejo de calidad y 
-características mejoradas.
+This pack is designed to enhance your server experience, offering a wide range of realistic and authentic vehicles, perfect for immersing yourself in a world where each car has its own story and style.
+   
+What does the pack include? Lore Friendly Vehicles: Models inspired by the aesthetic and narrative of the GTA universe, perfect for those looking to maintain lore consistency.
+   
+Buttom Dollars DLC = Exclusive vehicles not yet available in FiveM's GAEBuild, but integrated here to give you early access.
+   
+Customizable Sounds: Enjoy unique, high-quality sounds for an immersive experience, including custom sounds for engines, brakes, and collisions. Racing Vehicles: High-performance cars ideal for your racing events, designed to offer quality handling and enhanced features.
 
-Texturas HD y Modelos Detallados: Todos los vehículos vienen con texturas en alta resolución y modelos
-bien cuidados para asegurar un aspecto impresionante en tu servidor. 
-     
-Este pack está pensado para quienes buscan una experiencia más completa y dinámica en sus servidores de FiveM
-con vehículos que van más allá de lo común.
-     
-Si eres un amante de la personalización, el detalle y la calidad, ¡este pack es para ti!  
-      
-¡No olvides suscribirte y activar la campanita para más contenido como este! 
-      
-👉 Descarga disponible arriba boton <>Code azul, despliega y descarza .zip.  ¡Haz que tu servidor se destaque 
-con estos vehículos de otro nivel!
+HD Textures and Detailed Models: All vehicles come with high-resolution textures and well-crafted models to ensure an impressive look on your server.
+   
+This pack is designed for those seeking a more complete and dynamic experience on their FiveM servers, with vehicles that go beyond the ordinary.
+   
+If you’re a fan of customization, detail, and quality, this pack is for you!
+   
+Don’t forget to subscribe and turn on notifications for more content like this!
+   
+👉 Download available above on the blue <>Code button, unfold and download the .zip. Make your server stand out with these next-level vehicles!
+
+
+```lua
+
+How to install.
+
+step 1: unzip winrar files
+step 2: move the folder to your ''cars'' server folder
+setp 3: ensure mtvcreative_lrcars in you cfg folder
 
 # V= 1.0.0 vBeta
 
