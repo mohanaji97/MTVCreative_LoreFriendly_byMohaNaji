@@ -37,7 +37,7 @@ con estos vehículos de otro nivel!
 
 
 ### Contact Me
-<a href="https://www.linkedin.com/in/mohamed-ali-naji-9a7034337/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mohamed-ali-naji-9a7034337/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed%20Vera-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.youtube.com/@MohaNajiTV"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Mauro%20Dev-blue?style=flat-square&logo=youtube"></a>
 <a href="https://www.tiktok.com/@moha_naji_"><img alt="Tiktok" src="https://img.shields.io/badge/Dev Mauro-blue?style=flat-square&logo=tiktok"></a>  
 <a href="mohanajitv@mtvcode.com"><img alt="Email" src="https://img.shields.io/badge/mohanajitv@mtvcode.com-blue?style=flat-square&logo=gmail"></a>  
