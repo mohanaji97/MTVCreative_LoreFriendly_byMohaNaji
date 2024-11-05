@@ -17,24 +17,24 @@ DLC Buttom Dollars =  Vehículos exclusivos que aún no están disponibles en la
 pero que se han integrado aquí para ofrecerte acceso anticipado. 
     
 Sonidos personalizables: Disfruta de sonidos únicos y de alta calidad para una experiencia inmersiva
- incluyendo sonidos personalizados para motores, frenos y colisiones. Vehículos de Carreras: Automóviles 
- de alto rendimiento ideales para tus eventos de carreras, diseñados para ofrecer un manejo de calidad y 
- características mejoradas.
+incluyendo sonidos personalizados para motores, frenos y colisiones. Vehículos de Carreras: Automóviles 
+de alto rendimiento ideales para tus eventos de carreras, diseñados para ofrecer un manejo de calidad y 
+características mejoradas.
 
 Texturas HD y Modelos Detallados: Todos los vehículos vienen con texturas en alta resolución y modelos
- bien cuidados para asegurar un aspecto impresionante en tu servidor. 
+bien cuidados para asegurar un aspecto impresionante en tu servidor. 
      
 Este pack está pensado para quienes buscan una experiencia más completa y dinámica en sus servidores de FiveM
- con vehículos que van más allá de lo común.
+con vehículos que van más allá de lo común.
      
 Si eres un amante de la personalización, el detalle y la calidad, ¡este pack es para ti!  
       
 ¡No olvides suscribirte y activar la campanita para más contenido como este! 
       
-👉 Descarga disponible en el link de la descripción.  ¡Haz que tu servidor se destaque 
+👉 Descarga disponible arriba boton <>Code azul, despliega y descarza .zip.  ¡Haz que tu servidor se destaque 
 con estos vehículos de otro nivel!
 
-
+# V= 1.0.0 vBeta
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/mohamed-ali-naji-9a7034337/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed%20Ali-blue?style=flat-square&logo=linkedin"></a>
