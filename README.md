@@ -1,6 +1,6 @@
 # MTVCreative_LoreFriendly_byMohaNaji
 
-<h1>MTVCode presents its free LR FiveM-ready vehicle pack.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+<h1>MTVCode presents its free LR FiveM-ready vehicle pack.<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"> 🚀</h1>
 <h2>Unique pack updated every month, guaranteed optimization. Enjoy the new Beta! 📽</h2>
 
 ### Pack Info
@@ -33,12 +33,19 @@ Don’t forget to subscribe and turn on notifications for more content like this
 How to install.
 
 step 1: unzip winrar files
-step 2: move the folder to your ''cars'' server folder
-setp 3: ensure mtvcreative_lrcars in you cfg folder
+step 2: move the folder to your resource server folder
+setp 3: ensure [MTVCars] in you server.cfg folder
 
 ```
 
 # V= 1.0.0 vBeta
+
+
+
+This pack includes a variety of vehicles, featuring Japanese-style cars and racing cars. You'll find iconic cars with a sporty and aggressive design typical of Japanese culture
+as well as vehicles built for high-speed competitions. It also includes event vehicles like the "Safe Car" designed for safety during special events, and other exclusive vehicles. 
+All vehicles, both vanilla and server-specific, have been enhanced with modified sounds to improve the auditory experience. The pack has been unified to optimize performance and ensure a smooth
+high-quality user experience, all within the context of Vanilla Work.
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/mohamed-ali-naji-9a7034337/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohamed%20Ali-blue?style=flat-square&logo=linkedin"></a>
