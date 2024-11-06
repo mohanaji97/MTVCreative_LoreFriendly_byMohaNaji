@@ -12,12 +12,12 @@ files {
     'data/[Muscle]/**/*.meta',
     'data/[Random]/**/*.meta',
     'data/[WB]/**/*.meta',
-    'data/[Aqua]/audioconfig/*.dat151.rel',
-    'data/[Aqua]/audioconfig/*.dat54.rel',
-    'data/[Aqua]/audioconfig/*.dat10.rel',
-    'data/[Aqua]/sfx/**/*.awc',
-    'data/[DLC_Button]/*.awc',
-    'data/[DLC_Button]/vehicle_dumpvalve.dat54.rel'
+    "audioconfig/*.dat151.rel",
+    "audioconfig/*.dat54.rel",
+    "audioconfig/*.dat10.rel",
+    "sfx/**/*.awc",
+    'dlc_vehicle_dumpvalve/*.awc',
+    'vehicle_dumpvalve.dat54.rel'
 }
 
 data_file 'HANDLING_FILE' 'data/[Aqua]/handling.meta'
