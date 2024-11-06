@@ -1,38 +1,37 @@
 fx_version 'cerulean'
-
 games { 'rdr3', 'gta5' }
 
 --## By MohaNajiTV www.mtvcode.com
 
 files {
-    'data/**/*.meta'
+    'data/[Aqua]/**/*.meta',
+    'data/[DLC_Button]/**/*.meta',
+    'data/[Events]/**/*.meta',
+    'data/[HyperCar]/**/*.meta',
+    'data/[Japan]/**/*.meta',
+    'data/[Muscle]/**/*.meta',
+    'data/[Random]/**/*.meta',
+    'data/[WB]/**/*.meta',
+    'data/[Aqua]/audioconfig/*.dat151.rel',
+    'data/[Aqua]/audioconfig/*.dat54.rel',
+    'data/[Aqua]/audioconfig/*.dat10.rel',
+    'data/[Aqua]/sfx/**/*.awc',
+    'data/[DLC_Button]/*.awc',
+    'data/[DLC_Button]/vehicle_dumpvalve.dat54.rel'
 }
 
-data_file 'HANDLING_FILE' 'data/**/*.meta'
-data_file 'VEHICLE_METADATA_FILE' 'data/**/*.meta'
-data_file 'CARCOLS_FILE' 'data/**/*.meta'
-data_file 'VEHICLE_LAYOUTS_FILE' 'data/**/*.meta'
-data_file 'VEHICLE_VARIATION_FILE' 'data/**/*.meta'
-data_file 'VEHICLE_SHOP_DLC_FILE' 'data/**/*.meta'
-data_file 'CONTENT_UNLOCKING_META_FILE' 'data/**/*.meta'
-data_file 'VEHICLE_SETTINGS_FILE' 'data/**/*.meta'
-data_file 'CAR_ADDON_CONTENT_UNLOCKS' 'data/**/*.meta'
+data_file 'HANDLING_FILE' 'data/[Aqua]/handling.meta'
+data_file 'VEHICLE_METADATA_FILE' 'data/[Aqua]/vehicles.meta'
+data_file 'CARCOLS_FILE' 'data/[Aqua]/carcols.meta'
+data_file 'VEHICLE_LAYOUTS_FILE' 'data/[Aqua]/vehiclelayouts.meta'
+data_file 'VEHICLE_VARIATION_FILE' 'data/[Aqua]/carvariations.meta'
+data_file 'VEHICLE_SHOP_DLC_FILE' 'data/[DLC_Button]/vehicle_dumpvalve.dat54.rel'
+data_file 'CONTENT_UNLOCKING_META_FILE' 'data/[Aqua]/contentunlocks.meta'
+data_file 'VEHICLE_SETTINGS_FILE' 'data/[Aqua]/vehiclesettings.meta'
+data_file 'CAR_ADDON_CONTENT_UNLOCKS' 'data/[Aqua]/caraddoncontent.meta'
 
 lua54 'yes'
 
-files {
-  'vehiclelayouts.meta',
-  'handling.meta',
-  'vehicles.meta',
-  'carcols.meta',
-  'carvariations.meta',
-  "audioconfig/*.dat151.rel",
-  "audioconfig/*.dat54.rel",
-  "audioconfig/*.dat10.rel",
-  "sfx/**/*.awc",
-  'dlc_vehicle_dumpvalve/*.awc',
-  'vehicle_dumpvalve.dat54.rel'
-}
 
 
 --### SONIDOS EMERGENCY 
