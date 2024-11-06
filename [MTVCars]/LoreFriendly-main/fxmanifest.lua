@@ -5,7 +5,7 @@ games { 'rdr3', 'gta5' }
 
 files {
     'data/[Aqua]/**/*.meta',
-    'data/[DLC_Button]/**/*.meta',
+    'data/[DLC]/**/*.meta',
     'data/[Events]/**/*.meta',
     'data/[HyperCar]/**/*.meta',
     'data/[Japan]/**/*.meta',
