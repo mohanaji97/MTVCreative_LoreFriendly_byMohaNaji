@@ -2,6 +2,8 @@ fx_version 'cerulean'
 
 games { 'rdr3', 'gta5' }
 
+--## By MohaNajiTV www.mtvcode.com
+
 files {
     'data/**/*.meta'
 }
@@ -17,6 +19,7 @@ data_file 'VEHICLE_SETTINGS_FILE' 'data/**/*.meta'
 data_file 'CAR_ADDON_CONTENT_UNLOCKS' 'data/**/*.meta'
 
 lua54 'yes'
+
 files {
   'vehiclelayouts.meta',
   'handling.meta',
@@ -30,8 +33,6 @@ files {
   'dlc_vehicle_dumpvalve/*.awc',
   'vehicle_dumpvalve.dat54.rel'
 }
-
-lua54 'yes'
 
 
 --### SONIDOS EMERGENCY 
