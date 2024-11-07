@@ -4,31 +4,22 @@ games { 'rdr3', 'gta5' }
 --## By MohaNajiTV www.mtvcode.com
 
 files {
-    'data/[Aqua]/**/*.meta',
-    'data/[DLC]/**/*.meta',
-    'data/[Events]/**/*.meta',
-    'data/[HyperCar]/**/*.meta',
-    'data/[Japan]/**/*.meta',
-    'data/[Muscle]/**/*.meta',
-    'data/[Random]/**/*.meta',
-    'data/[WB]/**/*.meta',
-    "audioconfig/*.dat151.rel",
-    "audioconfig/*.dat54.rel",
-    "audioconfig/*.dat10.rel",
-    "sfx/**/*.awc",
-    'dlc_vehicle_dumpvalve/*.awc',
-    'vehicle_dumpvalve.dat54.rel'
+    'data/**/*.meta',                  -- Todos los archivos .meta dentro de data y sus subcarpetas
+    'audioconfig/*.dat151.rel',        -- Archivos de configuración de audio en audioconfig
+    'audioconfig/*.dat54.rel',
+    'audioconfig/*.dat10.rel',
+    'sfx/**/*.awc'                     -- Archivos de sonido en sfx y sus subcarpetas
 }
 
-data_file 'HANDLING_FILE' 'data/[Aqua]/handling.meta'
-data_file 'VEHICLE_METADATA_FILE' 'data/[Aqua]/vehicles.meta'
-data_file 'CARCOLS_FILE' 'data/[Aqua]/carcols.meta'
-data_file 'VEHICLE_LAYOUTS_FILE' 'data/[Aqua]/vehiclelayouts.meta'
-data_file 'VEHICLE_VARIATION_FILE' 'data/[Aqua]/carvariations.meta'
-data_file 'VEHICLE_SHOP_DLC_FILE' 'data/[DLC_Button]/vehicle_dumpvalve.dat54.rel'
-data_file 'CONTENT_UNLOCKING_META_FILE' 'data/[Aqua]/contentunlocks.meta'
-data_file 'VEHICLE_SETTINGS_FILE' 'data/[Aqua]/vehiclesettings.meta'
-data_file 'CAR_ADDON_CONTENT_UNLOCKS' 'data/[Aqua]/caraddoncontent.meta'
+data_file 'HANDLING_FILE' 'data/**/handling.meta'
+data_file 'VEHICLE_METADATA_FILE' 'data/**/vehicles.meta'
+data_file 'CARCOLS_FILE' 'data/**/carcols.meta'
+data_file 'VEHICLE_LAYOUTS_FILE' 'data/**/vehiclelayouts.meta'
+data_file 'VEHICLE_VARIATION_FILE' 'data/**/carvariations.meta'
+data_file 'VEHICLE_SHOP_DLC_FILE' 'data/**/vehicle_dumpvalve.dat54.rel'
+data_file 'CONTENT_UNLOCKING_META_FILE' 'data/**/contentunlocks.meta'
+data_file 'VEHICLE_SETTINGS_FILE' 'data/**/vehiclesettings.meta'
+data_file 'CAR_ADDON_CONTENT_UNLOCKS' 'data/**/caraddoncontent.meta'
 
 lua54 'yes'
 
