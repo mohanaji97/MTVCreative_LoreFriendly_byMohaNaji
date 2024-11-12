@@ -25,7 +25,7 @@ If you’re a fan of customization, detail, and quality, this pack is for you!
    
 Don’t forget to subscribe and turn on notifications for more content like this!
    
-👉 Download available above on the blue <>Code button, unfold and download the .zip. Make your server stand out with these next-level vehicles!
+👉 Download available above on the green <>Code button, unfold and download the .zip. Make your server stand out with these next-level vehicles!
 
 
 ```lua
