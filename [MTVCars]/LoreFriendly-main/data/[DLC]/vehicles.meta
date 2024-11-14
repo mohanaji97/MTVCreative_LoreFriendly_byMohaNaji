@@ -16,7 +16,7 @@
       <animConvRoofWindowsAffected>	
       </animConvRoofWindowsAffected>
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>dominator</audioNameHash>
       <layout>LAYOUT_STD_DOMINATOR10</layout>
       <coverBoundOffsets>DOMINATOR10_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -127,7 +127,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>yosemite</audioNameHash>
       <layout>LAYOUT_STD_YOSEMITE3</layout>
       <coverBoundOffsets>YOSEMITE1500_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -246,7 +246,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>faggio</audioNameHash>
       <layout>LAYOUT_BIKE_SCOOTER</layout>
       <coverBoundOffsets>BIKE_COVER_OFFSET_INFO</coverBoundOffsets>
 	  <POVTuningInfo>FAGGIO3_POV_TUNING</POVTuningInfo>
@@ -357,7 +357,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>police2</audioNameHash>
       <layout>LAYOUT_STD_DORADO</layout>
       <coverBoundOffsets>DORADO_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -474,7 +474,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>paragon</audioNameHash>
       <layout>LAYOUT_STD_PARAGON</layout>
       <coverBoundOffsets>GAUNTLET4_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -684,7 +684,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>fbi</audioNameHash>
       <layout>LAYOUT_STD_POLIMPALER6</layout>
       <coverBoundOffsets>IMPALER6_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -800,7 +800,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>euros</audioNameHash>
       <layout>LAYOUT_LOW_EUROSX32</layout>
       <coverBoundOffsets>EUROSX32_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -904,7 +904,7 @@
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
       <layout>LAYOUT_LOW_PIPISTRELLO</layout>
-      <audioNameHash />
+      <audioNameHash>dominator</audioNameHash>
       <coverBoundOffsets>PIPISTRELLO_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
       <scenarioLayout />
@@ -1006,7 +1006,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>police3</audioNameHash>
       <layout>LAYOUT_VAN_POLICET3</layout>
       <coverBoundOffsets>POLICET3_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -1247,7 +1247,7 @@
       <animConvRoofWindowsAffected>	
       </animConvRoofWindowsAffected>
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>dominator</audioNameHash>
       <layout>LAYOUT_STD_DOMINATOR10</layout>
       <coverBoundOffsets>DOMINATOR10_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -1573,7 +1573,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>police3</audioNameHash>
       <layout>LAYOUT_STD_GREENWOOD</layout>
       <coverBoundOffsets>POLGREENWOOD_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -1689,7 +1689,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>nebula</audioNameHash>
       <layout>LAYOUT_STANDARD</layout>
       <coverBoundOffsets>NEBULA_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -1793,7 +1793,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>sentinel</audioNameHash>
       <layout>LAYOUT_STANDARD_SENTINEL4</layout>
       <coverBoundOffsets>SENTINEL4_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -1903,7 +1903,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>cypher</audioNameHash>
       <layout>LAYOUT_STD_CYPHER</layout>
       <coverBoundOffsets>CYPHER_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -2008,7 +2008,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>vorschlaghammer</audioNameHash>
       <layout>LAYOUT_STANDARD</layout>
       <coverBoundOffsets>VORSCH_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -2116,7 +2116,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>coquette</audioNameHash>
       <layout>LAYOUT_STANDARD</layout>
       <coverBoundOffsets>COQUETTE5_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -2222,7 +2222,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash />
+      <audioNameHash>jester</audioNameHash>
       <layout>LAYOUT_STANDARD</layout>
       <coverBoundOffsets>VORSCH_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
