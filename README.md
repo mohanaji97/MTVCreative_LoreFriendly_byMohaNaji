@@ -57,4 +57,20 @@ high-quality user experience, all within the context of Vanilla Work.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanaji97&label=Profile%20views&color=0e75b6&style=flat" alt="mohanaji97" /> </p>
 
+
+## 🌐 Join Our Community on Discord
+
+Got questions, ideas, or just want to be part of a passionate community about **FiveM**, **Qb-Core**, and script development?  
+Join our official Discord server! 🚀
+
+🔗 **[Click here to join](https://store.mtvcode.com)**  
+
+💡 In our community, you’ll find:  
+- Technical support and step-by-step guides.  
+- Updates on our projects and scripts.  
+- An active and friendly community.  
+
+🎉 Don’t miss out on the latest news—be part of the journey!
+
+
 ### Donations: https://paypal.me/mohanajitv?country.x=FR&locale.x=fr_FR
