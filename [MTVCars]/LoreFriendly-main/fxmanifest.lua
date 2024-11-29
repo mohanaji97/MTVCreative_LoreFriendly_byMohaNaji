@@ -619,9 +619,7 @@ data_file "AUDIO_GAMEDATA" "audioconfig/voodoo2_game.dat"
 data_file "AUDIO_SOUNDDATA" "audioconfig/voodoo2_sounds.dat"
 data_file "AUDIO_WAVEPACK" "sfx/dlc_voodoo2"
 
-data_file 'AUDIO_WAVEPACK' 'dlc_vehicle_dumpvalve'
-data_file 'AUDIO_SOUNDDATA' 'vehicle_dumpvalve.dat'
-dependency '/assetpacks'
+
 
 data_file 'AUDIO_GAMEDATA' 'audioconfig/jestermk4_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/jestermk4_sounds.dat'
