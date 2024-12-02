@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dat54>
+  <Version value="7314721" />
+  <ContainerPaths>
+    <Item>dlc_vehicle_dumpvalve\dumpvalve</Item>
+  </ContainerPaths>
+  <Items>
+    <Item type="SimpleSound">
+      <Name>bmw_z4_a</Name>
+      <Header>
+        <Flags value="0x00000004" />
+        <Volume value="2000" />
+      </Header>
+      <ContainerName>dlc_vehicle_dumpvalve/dumpvalve</ContainerName>
+      <FileName>bmw_z4_a</FileName>
+      <WaveSlotNum value="0" />
+    </Item>
+    <Item type="SimpleSound">
+      <Name>bmw_z4_b</Name>
+      <Header>
+        <Flags value="0x00000004" />
+        <Volume value="2000" />
+      </Header>
+      <ContainerName>dlc_vehicle_dumpvalve/dumpvalve</ContainerName>
+      <FileName>bmw_z4_b</FileName>
+      <WaveSlotNum value="0" />
+    </Item>
+    <Item type="SimpleSound">
+      <Name>bmw_z4_c</Name>
+      <Header>
+        <Flags value="0x00000004" />
+        <Volume value="2000" />
+      </Header>
+      <ContainerName>dlc_vehicle_dumpvalve/dumpvalve</ContainerName>
+      <FileName>bmw_z4_c</FileName>
+      <WaveSlotNum value="0" />
+    </Item>
+    <Item type="SoundSet">
+      <Name>vehicle_dumpvalve_sounds</Name>
+      <Header>
+        <Flags value="0xAAAAAAAA" />
+      </Header>
+      <SoundSets>
+        <Item>
+          <ScriptName>bmw_z4</ScriptName>
+          <ChildSound>dlc_dumpvalve_bmw_z4_wrapper</ChildSound>
+        </Item>
+      </SoundSets>
+    </Item>
+    <Item type="WrapperSound">
+      <Name>dlc_dumpvalve_bmw_z4_wrapper</Name>
+      <Header>
+       <Flags value="0x00000004" />
+       <Category>scripted_louder</Category>
+      </Header>
+      <ChildSound>dlc_dumpvalve_bmw_z4_rand</ChildSound>
+      <LastPlayTime value="0" />
+      <FallBackSound />
+      <MinRepeatTime value="0" />
+      <Variables />
+      <ChildSounds>
+       <Item>dlc_dumpvalve_bmw_z4_rand</Item>
+       <Item />
+      </ChildSounds>
+     </Item>
+    <Item type="RandomizedSound">
+      <Name>dlc_dumpvalve_bmw_z4_rand</Name>
+      <Header>
+        <Flags value="0x00000004" />
+        <Flags2 value="0xAAA8AAAA" />
+        <Category>scripted_louder</Category>
+      </Header>
+      <HistoryIndex value="0" />
+      <HistorySpace />
+      <Variations>
+        <Item name="bmw_z4_a" value="1" />
+        <Item name="bmw_z4_b" value="1" />
+        <Item name="bmw_z4_c" value="1" />
+      </Variations>
+    </Item>
+  </Items>
+</Dat54>

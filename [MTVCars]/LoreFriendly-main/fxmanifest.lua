@@ -8,7 +8,10 @@ files {
     'audioconfig/*.dat151.rel',        -- Archivos de configuración de audio en audioconfig
     'audioconfig/*.dat54.rel',
     'audioconfig/*.dat10.rel',
-    'sfx/**/*.awc'                     -- Archivos de sonido en sfx y sus subcarpetas
+    'sfx/**/*.awc',
+    'carcols.meta',
+    'cii_wheelscontentunlocks.meta',
+    'dlctext.meta',
 }
 
 data_file 'HANDLING_FILE' 'data/**/handling.meta'
@@ -20,6 +23,9 @@ data_file 'VEHICLE_SHOP_DLC_FILE' 'data/**/vehicle_dumpvalve.dat54.rel'
 data_file 'CONTENT_UNLOCKING_META_FILE' 'data/**/contentunlocks.meta'
 data_file 'VEHICLE_SETTINGS_FILE' 'data/**/vehiclesettings.meta'
 data_file 'CAR_ADDON_CONTENT_UNLOCKS' 'data/**/caraddoncontent.meta'
+data_file 'CARCOLS_FILE' 'carcols.meta'
+data_file 'CONTENT_UNLOCKING_META_FILE' 'cii_wheelscontentunlocks.meta'
+data_file 'DLC_TEXT_FILE' 'dlctext.meta'
 
 lua54 'yes'
 
@@ -82,7 +88,9 @@ data_file "AUDIO_GAMEDATA" "audioconfig/dlc98s1_game.dat"
 data_file "AUDIO_SOUNDDATA" "audioconfig/dlc98s1_sounds.dat"
 data_file "AUDIO_WAVEPACK" "sfx/dlc_98s1"
 
-
+data_file 'AUDIO_GAMEDATA' 'audioconfig/vamosv8_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/vamosv8_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_vamosv8'
 
 --####################################################################################
 data_file "AUDIO_GAMEDATA" "audioconfig/cogcabrio_game.dat"
@@ -619,7 +627,9 @@ data_file "AUDIO_GAMEDATA" "audioconfig/voodoo2_game.dat"
 data_file "AUDIO_SOUNDDATA" "audioconfig/voodoo2_sounds.dat"
 data_file "AUDIO_WAVEPACK" "sfx/dlc_voodoo2"
 
-
+data_file 'AUDIO_WAVEPACK' 'dlc_vehicle_dumpvalve'
+data_file 'AUDIO_SOUNDDATA' 'vehicle_dumpvalve.dat'
+dependency '/assetpacks'
 
 data_file 'AUDIO_GAMEDATA' 'audioconfig/jestermk4_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/jestermk4_sounds.dat'

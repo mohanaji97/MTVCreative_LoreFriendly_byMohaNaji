@@ -10,8 +10,8 @@
       <vecCentreOfMassOffset x="0.000000" y="0.15000" z="0.2000" />
       <vecInertiaMultiplier x="1.50000" y="1.25000" z="2.000" />
       <fDriveBiasFront value="0.000000" />
-      <nInitialDriveGears value="7" />
-      <fInitialDriveForce value="0.45500" />
+      <nInitialDriveGears value="6" />
+      <fInitialDriveForce value="0.32500" />
       <fDriveInertia value="1.000000" />
       <fClutchChangeRateScaleUpShift value="6.100000" />
       <fClutchChangeRateScaleDownShift value="6.000000" />
