@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CVehicleModelInfo__InitDataList>
   <residentTxd>vehshare</residentTxd>
-  <residentAnims />
+  <residentAnims /> 
   <InitDatas>
     <Item>
       <modelName>tempestac</modelName>
@@ -15,7 +15,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>TEMPESTA</audioNameHash>
+      <audioNameHash>lambov10</audioNameHash>
       <layout>LAYOUT_LOW_RESTRICTED</layout>
       <coverBoundOffsets>ITALIGTB_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>

@@ -30,6 +30,40 @@ data_file 'DLC_TEXT_FILE' 'dlctext.meta'
 lua54 'yes'
 
 
+---### VIP
+
+data_file 'AUDIO_GAMEDATA' 'audioconfig/topfuelv8_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/topfuelv8_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_topfuelv8'
+
+data_file 'AUDIO_GAMEDATA' 'audioconfig/lambov10_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/lambov10_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_lambov10'
+
+
+data_file 'AUDIO_GAMEDATA' 'audioconfig/lambov10_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/lambov10_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_lambov10'
+
+data_file 'AUDIO_GAMEDATA' 'audioconfig/brabus850_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/brabus850_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_brabus850'
+
+data_file 'AUDIO_GAMEDATA' 'audioconfig/shonen_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/shonen_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_shonen'
+
+data_file 'AUDIO_GAMEDATA' 'audioconfig/toysupmk4_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/toysupmk4_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_toysupmk4'
+
+data_file 'AUDIO_GAMEDATA' 'audioconfig/rb26dett_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/rb26dett_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_rb26dett'
+
+
+
+
 
 --### SONIDOS EMERGENCY 
 
